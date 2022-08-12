@@ -2,7 +2,7 @@
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 0%;
-    color: white;
+    color: #ffffff;
 }
 
 .navbar.navbar-expand-lg.bg-dark {
@@ -12,8 +12,8 @@
    background: linear-gradient(0deg, rgba(136,147,230,1) 0%, rgba(13,55,249,1) 34%, rgba(27,40,199,1) 75%); 
    */
 
-   background: rgb(136,147,230);
-   background: linear-gradient(0deg, rgba(136,147,230,1) 2%, rgba(13,55,249,1) 47%, rgba(136,147,230,1) 97%); 
+   background: #8893e6;
+   background: linear-gradient(0deg, #8893e6 2%, #0d37f9 47%, #8893e6 97%); 
 }
 
 .navbar_redes{
@@ -21,19 +21,19 @@
 }
 
 .fa-brand.fa-solid {
-    color: white !important;
+    color: #ffffff !important;
 }
 
 i.fa-brands:hover {
-   color: blue;
+   color: #0000ff;
 }
 
 i.fa-solid.fa-envelope:hover {
-    color: red;
+    color: #ff0000;
  }
 
 i.fa-solid.fa-user-lock:hover {
-    color: black;
+    color: #000000;
 }
 
 .list-group {
@@ -43,11 +43,11 @@ i.fa-solid.fa-user-lock:hover {
 
 .list-group-item {
     background: none;
-    color: white;
+    color: #ffffff;
 }
 .yoprogramo {
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 0%;
-    color: white;
+    color: #ffffff;
 }
