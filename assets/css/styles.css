@@ -1,8 +1,5 @@
-#titulo_A {
-    font-style: normal;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 0%;
-    color: #ffffff;
+body {
+    background-color: aquamarine;
 }
 
 .navbar.navbar-expand-lg.bg-dark {
@@ -51,7 +48,5 @@ i.fa-solid.fa-user-lock:hover {
     margin-left: 0%;
     color: #ffffff;
 }
-.banner {
-    max-width: 100%;
-    margin-top: -10%;
+section.acerca {
 }
