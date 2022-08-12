@@ -25,12 +25,16 @@
 }
 
 i.fa-brands:hover {
-   color: red;
+   color: blue;
 }
 
-i.fa-solid:hover {
-    color: blue;
+i.fa-solid.fa-envelope:hover {
+    color: red;
  }
+
+i.fa-solid.fa-user-lock:hover {
+    color: black;
+}
 
 .list-group {
     --bs-list-group-border-width : 0%;
