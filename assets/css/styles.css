@@ -36,3 +36,21 @@ i.fa-solid.fa-user-lock:hover {
     background: none;
     color: #ffffff;
 }
+
+.acerca {
+    color: #2a0c70;
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 120%;
+}
+
+.picperfil {
+    margin-top: -30%;
+    margin-left: 30%;
+    width: 60%;
+}
+.info {
+    font-size: 90%;
+    padding-left: 35%;
+    text-align: center;
+}
