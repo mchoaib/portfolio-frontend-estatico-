@@ -40,10 +40,10 @@ i.fa-solid.fa-user-lock:hover {
     z-index:auto;
 }
 .acerca {
-    color: #2a0c70;
+    color: #2a0c70 !important;
     margin-top: 3rem;
     text-align: center;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 .picperfil {
