@@ -24,16 +24,16 @@ i.fa-solid.fa-envelope:hover {
  }
 
 i.fa-solid.fa-user-lock:hover {
-    color: #000000;
+    color: #008000;
 }
 
-.list-group{
+.list-group-item.redes{
     --bs-list-group-border-width : 0%;
     background: none;
 
 }
 
-.list-group-item {
+.list-group-item.fa-brand {
     background: none;
     color: #ffffff;
 }
