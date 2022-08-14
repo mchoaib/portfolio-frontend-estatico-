@@ -1,4 +1,4 @@
-body {
+body.pagina_principal {
     background-color: aquamarine;
 }
 
@@ -27,8 +27,9 @@ i.fa-solid.fa-user-lock:hover {
     color: #000000;
 }
 
-.list-group {
+.list-group{
     --bs-list-group-border-width : 0%;
+    background: none;
 
 }
 
