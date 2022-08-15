@@ -1,4 +1,4 @@
-body.pagina_principal {
+body {
     background-color: aquamarine;
 }
 
@@ -27,6 +27,9 @@ i.fa-solid.fa-user-lock:hover {
     color: #008000;
 }
 
+i.fa-solid.fa-user:hover {
+    color: #008000;
+}
 .list-group-item.redes{
     --bs-list-group-border-width : 0%;
     background: none;
@@ -44,7 +47,7 @@ i.fa-solid.fa-user-lock:hover {
     color: #2a0c70 !important;
     margin-top: 3rem;
     text-align: center;
-    font-size: 100%;
+    font-size: 80%;
 }
 
 .picperfil {
