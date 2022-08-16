@@ -40,6 +40,11 @@ i.fa-solid.fa-user:hover {
     background: none;
     color: #ffffff;
 }
+
+.list-group.sidebar {
+    margin-top: 5rem;
+
+}
 .modal-backdrop {
     z-index:auto;
 }
