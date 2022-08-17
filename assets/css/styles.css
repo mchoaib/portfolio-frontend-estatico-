@@ -42,9 +42,15 @@ i.fa-solid.fa-user:hover {
 }
 
 .list-group.sidebar {
-    margin-top: 5rem;
+    margin-top: 7rem;
 
 }
+
+.col-7.edicion_principal {
+    color: #ffffff;
+    margin-top: 7rem;
+}
+
 .modal-backdrop {
     z-index:auto;
 }
