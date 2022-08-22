@@ -61,13 +61,19 @@ i.fa-solid.fa-user:hover {
     font-size: 80%;
 }
 
-.editor {
-    position:absolute;
+.editor.pen.nombrecargo {
+    margin-left: 8.5%;
+    margin-top: -6%;
 }
 
-.editor.pen {
+.editor.pen.fotoperfil {
     margin-left: -6.5%;
     margin-top: 6%;
+}
+
+.editor {
+    position:absolute;
+    text-decoration: none;
 }
 
 .picperfil {
@@ -78,7 +84,8 @@ i.fa-solid.fa-user:hover {
 }
 .info {
     font-size: 90%;
-    padding-left: 35%;
+    padding-left: 0%;
+    padding-top: 5%;
     text-align: center;
     color:#ffffff;
 }
