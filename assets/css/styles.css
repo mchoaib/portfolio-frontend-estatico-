@@ -61,10 +61,20 @@ i.fa-solid.fa-user:hover {
     font-size: 80%;
 }
 
+.editor {
+    position:absolute;
+}
+
+.editor.pen {
+    margin-left: -6.5%;
+    margin-top: 6%;
+}
+
 .picperfil {
-    margin-top: -30%;
-    margin-left: 30%;
-    width: 60%;
+    margin-top: -10%;
+    margin-left: 0%;
+    width: 40%;
+    position: relative;
 }
 .info {
     font-size: 90%;
