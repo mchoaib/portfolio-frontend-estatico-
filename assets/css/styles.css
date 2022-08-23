@@ -49,20 +49,154 @@ i.fa-solid.fa-user:hover {
 .modal-backdrop {
     z-index:auto;
 }
-.acerca {
-    color: #ffffff !important;
-    margin-top: 3rem;
-    text-align: center;
+
+/* Estilos Estudios */
+.texto_estudio.txtest3 {
+    margin-top: 5rem;
+    color: #ffffff;
     font-size: 80%;
+    text-align : left;
+}
+
+.icono_estudio3 {
+    margin-top: 5.5rem;
+    margin-left: 8rem;
+}
+
+.editor.xmark.est3 {
+    margin-left: 70.5%;
+    margin-top: 5%;
+}
+.editor.pen.est3 {
+    margin-left: 68.5%;
+    margin-top: 5%;
+}
+
+.texto_estudio.txtest2 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 80%;
+    text-align : left;
+}
+
+.icono_estudio2 {
+    margin-top: 7rem;
+    margin-left: 8rem;
+}
+
+.editor.xmark.est2 {
+    margin-left: 70.5%;
+    margin-top: 5%;
+}
+.editor.pen.est2 {
+    margin-left: 68.5%;
+    margin-top: 5%;
+}
+.texto_estudio.txtest1 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 80%;
+    text-align : left;
+}
+
+.icono_estudio1 {
+    margin-top: 5.5rem;
+    margin-left: 8rem;
+}
+
+.editor.xmark.est1 {
+    margin-left: 70.5%;
+    margin-top: 5%;
+}
+.editor.pen.est1 {
+    margin-left: 68.5%;
+    margin-top: 5%;
+}
+.Titulo_estudios {
+    color: #ffffff;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}
+
+/* Estilos Experiencias */
+.texto_laburo.txtlab3 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 80%;
+    text-align : left;
+}
+
+.icono_laburo3 {
+    margin-top: 5.5rem;
+    margin-left: 8rem;
+}
+
+.editor.xmark.exp3 {
+    margin-left: 70.5%;
+    margin-top: 5%;
+}
+.editor.pen.exp3 {
+    margin-left: 68.5%;
+    margin-top: 5%;
+}
+
+.texto_laburo.txtlab2 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 80%;
+    text-align : left;
+}
+
+.icono_laburo2 {
+    margin-top: 7rem;
+    margin-left: 8rem;
+}
+
+.editor.xmark.exp2 {
+    margin-left: 70.5%;
+    margin-top: 5%;
+}
+.editor.pen.exp2 {
+    margin-left: 68.5%;
+    margin-top: 5%;
+}
+.texto_laburo.txtlab1 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 80%;
+    text-align : left;
+}
+
+.icono_laburo1 {
+    margin-top: 5.5rem;
+    margin-left: 8rem;
+}
+
+.editor.xmark.exp1 {
+    margin-left: 70.5%;
+    margin-top: 5%;
+}
+.editor.pen.exp1 {
+    margin-left: 68.5%;
+    margin-top: 5%;
+}
+.Titulo_experiencia {
+    color: #ffffff;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
 }
 
 .editor.xmark.acerca {
-    margin-left: 10.5%;
-    margin-top: -10%;
+    margin-left: 14.5%;
+    margin-top: -9%;
 }
 .editor.pen.acerca {
-    margin-left: 8.5%;
-    margin-top: -10%;
+    margin-left: 12.5%;
+    margin-top: -9%;
 }
 .editor.pen.nombrecargo {
     margin-left: 8.5%;
@@ -71,7 +205,7 @@ i.fa-solid.fa-user:hover {
 
 .editor.pen.fotoperfil {
     margin-left: -6.5%;
-    margin-top: 6%;
+    margin-top: 8%;
 }
 
 .editor {
@@ -80,7 +214,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .picperfil {
-    margin-top: -10%;
+    margin-top: 5%;
     margin-left: 0%;
     width: 40%;
     position: relative;
@@ -88,7 +222,18 @@ i.fa-solid.fa-user:hover {
 .info {
     font-size: 90%;
     padding-left: 0%;
-    padding-top: 5%;
+    padding-top: 7%;
     text-align: center;
     color:#ffffff;
+}
+
+.acerca {
+    color: #ffffff !important;
+    margin-top: 11rem;
+    text-align: center;
+    font-size: 75%;
+}
+.banner.ban{
+    width: 10%;
+    height: 5%;
 }
