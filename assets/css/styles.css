@@ -16,7 +16,7 @@ body {
 }
 
 i.fa-brands:hover {
-   color: #0000ff;
+   color: #d0ff00;
 }
 
 i.fa-solid.fa-envelope:hover {
@@ -59,7 +59,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .icono_estudio3 {
-    margin-top: 6.5rem;
+    margin-top: 7.5rem;
     margin-left: 13rem;
 }
 
@@ -80,7 +80,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .icono_estudio2 {
-    margin-top: 8rem;
+    margin-top: 9rem;
     margin-left: 13rem;
 }
 
@@ -100,7 +100,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .icono_estudio1 {
-    margin-top: 6.5rem;
+    margin-top: 7.5rem;
     margin-left: 13rem;
 }
 
@@ -129,7 +129,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .icono_laburo3 {
-    margin-top: 6.5rem;
+    margin-top: 7.5rem;
     margin-left: 13rem;
 }
 
@@ -150,7 +150,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .icono_laburo2 {
-    margin-top: 8rem;
+    margin-top: 9rem;
     margin-left: 13rem;
 }
 
@@ -170,7 +170,7 @@ i.fa-solid.fa-user:hover {
 }
 
 .icono_laburo1 {
-    margin-top: 6.5rem;
+    margin-top: 7.5rem;
     margin-left: 13rem;
 }
 
@@ -212,10 +212,9 @@ i.fa-solid.fa-user:hover {
     margin-top: -1%;
 }
 
-.editor.pen.banner {
-    margin-left: 32%;
-    margin-top: -1%;
-    position:absolute;
+a.editor.pen.banner {
+    margin-left: -2%;
+    margin-top: 29%;
 }
 
 .editor {
@@ -243,11 +242,7 @@ i.fa-solid.fa-user:hover {
     text-align: left;
     font-size: 90%;
 }
-.banner.row.col-10 {
-    background-repeat: no-repeat; 
-    background-position: center; 
-    position: relative;
-}
+
 img.w-100 {
     margin-top: -6% !important;
 }
