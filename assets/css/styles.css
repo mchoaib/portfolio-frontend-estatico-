@@ -50,6 +50,36 @@ i.fa-solid.fa-user:hover {
     z-index:auto;
 }
 
+/* Dount charts */
+
+/* (B) DONUT "CONVERSION" */
+/* (B1) SMALLER CIRCLE */
+.hole {
+    width: 180px; height: 180px;
+    border-radius: 50%;
+    background: #fff;
+  }
+   
+  /* (B2) "CONVERT PIE TO DONUT" - CENTER SMALLER CIRCLE */
+  .donut {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+/* (C) LEGEND */
+/* (C1) LEGEND CONTAINER */
+.legend {
+    display: flex;
+    margin-top: 30px;
+  }
+   
+  /* (C2) SEGMENTS */
+  .legend div { padding: 0 10px; }
+  .segment1 { background: red; }
+  .segment2 { background: green; }
+  .segment3 { background: blue; }
+
+  
 /* Estilos Estudios */
 .texto_estudio.txtest3 {
     margin-top: 5rem;
