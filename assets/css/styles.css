@@ -54,63 +54,63 @@ i.fa-solid.fa-user:hover {
 .texto_estudio.txtest3 {
     margin-top: 5rem;
     color: #ffffff;
-    font-size: 80%;
+    font-size: 100%;
     text-align : left;
 }
 
 .icono_estudio3 {
-    margin-top: 5.5rem;
-    margin-left: 8rem;
+    margin-top: 6.5rem;
+    margin-left: 13rem;
 }
 
 .editor.xmark.est3 {
-    margin-left: 70.5%;
-    margin-top: 5%;
+    margin-left: 80.5%;
+    margin-top: 5.5%;
 }
 .editor.pen.est3 {
-    margin-left: 68.5%;
-    margin-top: 5%;
+    margin-left: 78.5%;
+    margin-top: 5.5%;
 }
 
 .texto_estudio.txtest2 {
     margin-top: 5rem;
     color: #ffffff;
-    font-size: 80%;
+    font-size: 100%;
     text-align : left;
 }
 
 .icono_estudio2 {
-    margin-top: 7rem;
-    margin-left: 8rem;
+    margin-top: 8rem;
+    margin-left: 13rem;
 }
 
 .editor.xmark.est2 {
-    margin-left: 70.5%;
-    margin-top: 5%;
+    margin-left: 80.5%;
+    margin-top: 5.5%;
 }
 .editor.pen.est2 {
-    margin-left: 68.5%;
-    margin-top: 5%;
+    margin-left: 78.5%;
+    margin-top: 5.5%;
 }
 .texto_estudio.txtest1 {
     margin-top: 5rem;
     color: #ffffff;
-    font-size: 80%;
+    font-size: 100%;
     text-align : left;
 }
 
 .icono_estudio1 {
-    margin-top: 5.5rem;
-    margin-left: 8rem;
+    margin-top: 6.5rem;
+    margin-left: 13rem;
 }
 
 .editor.xmark.est1 {
-    margin-left: 70.5%;
-    margin-top: 5%;
+    margin-left: 80.5%;
+    margin-top: 5.5%;
 }
 .editor.pen.est1 {
-    margin-left: 68.5%;
-    margin-top: 5%;
+    margin-left: 78.5%;
+    margin-top: 5.5%;
 }
 .Titulo_estudios {
     color: #ffffff;
@@ -124,63 +124,63 @@ i.fa-solid.fa-user:hover {
 .texto_laburo.txtlab3 {
     margin-top: 5rem;
     color: #ffffff;
-    font-size: 80%;
+    font-size: 100%;
     text-align : left;
 }
 
 .icono_laburo3 {
-    margin-top: 5.5rem;
-    margin-left: 8rem;
+    margin-top: 6.5rem;
+    margin-left: 13rem;
 }
 
 .editor.xmark.exp3 {
-    margin-left: 70.5%;
-    margin-top: 5%;
+    margin-left: 80.5%;
+    margin-top: 5.5%;
 }
 .editor.pen.exp3 {
-    margin-left: 68.5%;
-    margin-top: 5%;
+    margin-left: 78.5%;
+    margin-top: 5.5%;
 }
 
 .texto_laburo.txtlab2 {
     margin-top: 5rem;
     color: #ffffff;
-    font-size: 80%;
+    font-size: 100%;
     text-align : left;
 }
 
 .icono_laburo2 {
-    margin-top: 7rem;
-    margin-left: 8rem;
+    margin-top: 8rem;
+    margin-left: 13rem;
 }
 
 .editor.xmark.exp2 {
-    margin-left: 70.5%;
-    margin-top: 5%;
+    margin-left: 80.5%;
+    margin-top: 5.5%;
 }
 .editor.pen.exp2 {
-    margin-left: 68.5%;
-    margin-top: 5%;
+    margin-left: 78.5%;
+    margin-top: 5.5%;
 }
 .texto_laburo.txtlab1 {
     margin-top: 5rem;
     color: #ffffff;
-    font-size: 80%;
+    font-size: 100%;
     text-align : left;
 }
 
 .icono_laburo1 {
-    margin-top: 5.5rem;
-    margin-left: 8rem;
+    margin-top: 6.5rem;
+    margin-left: 13rem;
 }
 
 .editor.xmark.exp1 {
-    margin-left: 70.5%;
-    margin-top: 5%;
+    margin-left: 80.5%;
+    margin-top: 5.5%;
 }
 .editor.pen.exp1 {
-    margin-left: 68.5%;
-    margin-top: 5%;
+    margin-left: 78.5%;
+    margin-top: 5.5%;
 }
 .Titulo_experiencia {
     color: #ffffff;
@@ -191,21 +191,31 @@ i.fa-solid.fa-user:hover {
 }
 
 .editor.xmark.acerca {
-    margin-left: 14.5%;
-    margin-top: -9%;
+    margin-left: 28.5%;
+    margin-top: -11%;
+    position:absolute;
+    color: aquamarine !important;
 }
 .editor.pen.acerca {
-    margin-left: 12.5%;
-    margin-top: -9%;
+    margin-left: 26.5%;
+    margin-top: -11%;
+    position:absolute;
+    color: aquamarine !important;
 }
 .editor.pen.nombrecargo {
-    margin-left: 8.5%;
-    margin-top: -6%;
+    margin-left: 0.5%;
+    margin-top: -4%;
 }
 
 .editor.pen.fotoperfil {
     margin-left: -6.5%;
-    margin-top: 8%;
+    margin-top: -1%;
+}
+
+.editor.pen.banner {
+    margin-left: 32%;
+    margin-top: -1%;
+    position:absolute;
 }
 
 .editor {
@@ -214,26 +224,30 @@ i.fa-solid.fa-user:hover {
 }
 
 .picperfil {
-    margin-top: 5%;
-    margin-left: 0%;
+    margin-top: -20%;
+    margin-left: -50%;
     width: 40%;
     position: relative;
 }
 .info {
     font-size: 90%;
-    padding-left: 0%;
-    padding-top: 7%;
+    margin-left: -55%;
+    padding-top: 2%;
     text-align: center;
     color:#ffffff;
 }
 
-.acerca {
+.ed-about {
     color: #ffffff !important;
-    margin-top: 11rem;
-    text-align: center;
-    font-size: 75%;
+    margin-top: 3rem;
+    text-align: left;
+    font-size: 90%;
 }
-.banner.ban{
-    width: 10%;
-    height: 5%;
+.banner.row.col-10 {
+    background-repeat: no-repeat; 
+    background-position: center; 
+    position: relative;
+}
+img.w-100 {
+    margin-top: -6% !important;
 }
