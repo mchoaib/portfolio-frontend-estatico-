@@ -53,15 +53,25 @@ i.fa-solid.fa-user:hover {
 /* Dount charts */
 
 /* (B) DONUT "CONVERSION" */
-/* (B1) SMALLER CIRCLE */
-.hole {
+  /* (B1) SMALLER CIRCLE */
+  .hole {
     width: 180px; height: 180px;
     border-radius: 50%;
-    background: #fff;
+    background: #ffffff;
   }
    
   /* (B2) "CONVERT PIE TO DONUT" - CENTER SMALLER CIRCLE */
   .donut {
+    /* (A1) CIRCLE */
+  width: 300px; height: 300px;
+  border-radius: 50%;
+ 
+  /* (A2) SEGMENTS */
+  background: conic-gradient(
+    red 0deg 80deg,
+    green 80deg 190deg,
+    blue 190deg 360deg
+  );
     display: flex;
     align-items: center;
     justify-content: center;
@@ -79,7 +89,14 @@ i.fa-solid.fa-user:hover {
   .segment2 { background: green; }
   .segment3 { background: blue; }
 
-  
+.titulo_habilidades {
+    color: #ffffff;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}  
+
 /* Estilos Estudios */
 .texto_estudio.txtest3 {
     margin-top: 5rem;
