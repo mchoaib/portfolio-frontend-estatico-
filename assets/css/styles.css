@@ -52,42 +52,92 @@ i.fa-solid.fa-user:hover {
 
 /* Dount charts */
 
+.donut{
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
 /* (B) DONUT "CONVERSION" */
   /* (B1) SMALLER CIRCLE */
   .hole {
-    width: 180px; height: 180px;
+    width: 60px; height: 60px;
     border-radius: 50%;
-    background: #ffffff;
+    background: #0b335d;
+  }
+
+  .porcentaje {
+    color: #ffffff;
+    margin-top: 30%;
+    margin-left: 27%;
   }
    
   /* (B2) "CONVERT PIE TO DONUT" - CENTER SMALLER CIRCLE */
-  .donut {
+  .donut50 {
     /* (A1) CIRCLE */
-  width: 300px; height: 300px;
-  border-radius: 50%;
+    width: 100px; height: 100px;
+    border-radius: 50%;
  
   /* (A2) SEGMENTS */
-  background: conic-gradient(
-    red 0deg 80deg,
-    green 80deg 190deg,
-    blue 190deg 360deg
+    background: conic-gradient(
+   green 0deg 180deg,   
+   red 180deg 360deg
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .donut67 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+ 
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+    green 0deg 215deg,
+    red 215deg 360deg
+
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .donut75 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+ 
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+    green 0deg 270deg,
+    red 270deg 360deg
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .donut100 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+ 
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+    green 0deg 360deg
   );
     display: flex;
     align-items: center;
     justify-content: center;
   }
 /* (C) LEGEND */
-/* (C1) LEGEND CONTAINER */
 .legend {
-    display: flex;
-    margin-top: 30px;
+    color: #ffffff;
+    margin-left: 25%;
+    margin-top: 3%;
+    text-align: center;
   }
-   
-  /* (C2) SEGMENTS */
-  .legend div { padding: 0 10px; }
-  .segment1 { background: red; }
-  .segment2 { background: green; }
-  .segment3 { background: blue; }
 
 .titulo_habilidades {
     color: #ffffff;
