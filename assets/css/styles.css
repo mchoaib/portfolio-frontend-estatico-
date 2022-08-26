@@ -72,6 +72,11 @@ i.fa-solid.fa-user:hover {
     margin-top: 5.5%;
 }
 
+.fotoproy.fp3 {
+    margin-top: 5rem !important;
+    margin-left: 2rem;
+}
+
 .editor.xmark.proy2 {
     margin-left: 80.5%;
     margin-top: 5.5%;
@@ -81,10 +86,15 @@ i.fa-solid.fa-user:hover {
     margin-top: 5.5%;
 }
 
-.fotoproy {
+.fotoproy.fp2 {
+    margin-top: 5rem !important;
+    margin-left: 2rem;
+}
+
+/* .fotoproy {
     margin-top: 5rem;
     margin-left: 7rem;
-}
+} */
 
 .editor.xmark.proy1 {
     margin-left: 80.5%;
