@@ -2,6 +2,17 @@ body {
     background-color: #0b335d ;
 }
 
+.cierre {
+    border-color: #ffffff;
+    margin-top: 5%;
+    padding-bottom: 1%;
+}
+
+.copyright {
+    text-align: center;
+    color: #ffffff;
+}
+
 .navbar.navbar-expand-lg.bg-dark {
    background: #8893e6;
    background: linear-gradient(0deg, #8893e6 2%, #0d37f9 47%, #8893e6 97%); 
@@ -49,6 +60,61 @@ i.fa-solid.fa-user:hover {
 .modal-backdrop {
     z-index:auto;
 }
+
+/* Estilos sobre proyectos */
+
+.editor.xmark.proy3 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.proy3 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.editor.xmark.proy2 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.proy2 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.fotoproy {
+    margin-top: 5rem;
+    margin-left: 7rem;
+}
+
+.editor.xmark.proy1 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.proy1 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.fotoproy.fp1 {
+    margin-top: 5rem !important;
+    margin-left: 2rem;
+}
+
+.titulo_proyectos {
+    color: #ffffff;
+    margin-top: 4rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}
+
+.texto_proy {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
 
 /* Dount charts */
 
@@ -335,7 +401,7 @@ a.editor.pen.banner {
 
 .ed-about {
     color: #ffffff !important;
-    margin-top: 3rem;
+    margin-top: 1.5rem;
     text-align: left;
     font-size: 90%;
 }
