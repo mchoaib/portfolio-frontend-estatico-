@@ -24,12 +24,17 @@ body {
 
 
 a.fa-brands {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none !important; 
 }
 
 a.fa-solid {
-    color: #000000;
+    color: #ffffff;
+    text-decoration: none !important; 
+}
+
+i.fa-solid {
+    color: #ffffff;
     text-decoration: none !important; 
 }
 
