@@ -1,3 +1,3 @@
-function EntradaLogin {
-    window.location='test.php';
+function EntradaLogin () {
+    window.location='/index1.html';
 }
