@@ -22,7 +22,9 @@ body {
     list-style: none;
 }
 
-
+.logueo {
+    text-decoration: none;
+}
 a.fa-brands {
     color: #ffffff;
     text-decoration: none !important; 
@@ -38,13 +40,25 @@ i.fa-solid {
     text-decoration: none !important; 
 }
 
+i.fa-brands {
+    color: #ffffff;
+    text-decoration: none !important; 
+}
+
 a.fa-brands:hover {
    color: #d0ff00;
+}
+
+i.fa-brands:hover {
+    color: #d0ff00;
 }
 
 a.fa-solid.fa-envelope:hover {
     color: #ff0000;
  }
+i.fa-solid.fa-envelope:hover {
+    color: #ff0000;
+}
 
 i.fa-solid.fa-user-lock:hover {
     color: #008000;
