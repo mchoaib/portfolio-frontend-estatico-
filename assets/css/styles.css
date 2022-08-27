@@ -22,15 +22,22 @@ body {
     list-style: none;
 }
 
-.fa-brand.fa-solid {
-    color: #ffffff !important;
+
+a.fa-brands {
+    color: #000000;
+    text-decoration: none !important; 
 }
 
-i.fa-brands:hover {
+a.fa-solid {
+    color: #000000;
+    text-decoration: none !important; 
+}
+
+a.fa-brands:hover {
    color: #d0ff00;
 }
 
-i.fa-solid.fa-envelope:hover {
+a.fa-solid.fa-envelope:hover {
     color: #ff0000;
  }
 
@@ -38,7 +45,7 @@ i.fa-solid.fa-user-lock:hover {
     color: #008000;
 }
 
-i.fa-solid.fa-user:hover {
+a.fa-solid.fa-user:hover {
     color: #008000;
 }
 .list-group-item.redes{
@@ -90,11 +97,6 @@ i.fa-solid.fa-user:hover {
     margin-top: 5rem !important;
     margin-left: 2rem;
 }
-
-/* .fotoproy {
-    margin-top: 5rem;
-    margin-left: 7rem;
-} */
 
 .editor.xmark.proy1 {
     margin-left: 80.5%;
