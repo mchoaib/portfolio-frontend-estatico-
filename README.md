@@ -1,4 +1,4 @@
-# portfolio-beta
+# portfolio-frontend (estático)
 previas al portfolio oficial
 
 
